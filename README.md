@@ -7,10 +7,18 @@
 
 ---
 
-## 👨‍💻 About Me  
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications using the **MERN** stack. I love working with **JavaScript**, **React**, **Node.js**, and **MongoDB**, and I'm always exploring new tools to improve my workflow.  
+## 👨‍💻 About Me
 
-Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
+I'm a full-stack developer and Computer Science & Engineering student who enjoys building modern, secure, and user-friendly web applications using the **MERN** stack and **Next.js**. I work with **JavaScript**, **TypeScript**, **React**, **Node.js**, **Express.js**, and **MongoDB**, and I build **REST APIs** with **JWT-based authentication**. I deploy my projects on **Vercel**.
+
+### 🌱 What I'm up to
+- 🚀 Building full-stack projects with Next.js, Express, and MongoDB
+- 🔐 Exploring authentication and API security with Better Auth and JWT
+- 🎯 Looking for junior full-stack and internship opportunities
+
+Feel free to reach out if you'd like to talk about **web development**, collaboration, or project ideas!
+
+📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📧 [akashonline24hours@gmail.com](mailto:akashonline24hours@gmail.com)
 
 ---
 
