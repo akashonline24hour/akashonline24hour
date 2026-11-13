@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Akash Chandra Paul - MERN Stack and Full-Stack Developer banner" width="100%" />
+</p>
+
 # Hi 👋, I'm Akash Chandra Paul  
 ### 🔭 I build things with JavaScript, React, and Node.js
 
