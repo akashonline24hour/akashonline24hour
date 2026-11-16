@@ -3,7 +3,7 @@
 </p>
 
 # Hi 👋, I'm Akash Chandra Paul  
-### 🔭 I build things with JavaScript, React, and Node.js
+### 🔭 MERN Stack & Full-Stack Developer | CSE Student
 
 ---
 
